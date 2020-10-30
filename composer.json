@@ -1,5 +1,5 @@
 {
-    "name": "fakerphp/faker",
+    "name": "robertoarruda/faker",
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
     "keywords": [
